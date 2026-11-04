@@ -1,10 +1,17 @@
 {
-  "seq": 66,
   "title": "Patient or Client Feedback Sentiment Dashboard",
+  "old_slug": "patient-or-client-feedback-sentiment-dashboard",
   "slug": "patient-or-client-feedback-sentiment-dashboard",
   "folder": "Patient_Or_Client_Feedback_Sentiment_Dashboard",
   "kind": "governance",
-  "body_words": 235,
+  "body_words": 298,
+  "source": "MICT Academic",
   "project_id": "Academic Project 26",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
